@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "AMD Ryzen 5",
+      "price": 999.9
+    },
+    {
+      "id": 2,
+      "name": "Guitar LesPaul",
+      "price": 800
+    },
+    {
+      "id": 3,
+      "name": "redimi 8",
+      "price": "1500"
+    },
+    {
+      "name": "iphone x",
+      "price": "100000",
+      "id": 5
+    }
+  ]
+}
